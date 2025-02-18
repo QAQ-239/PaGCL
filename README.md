@@ -3,7 +3,7 @@
 ## Setup
 
 - We experiment on CUDA 11.1 and torch 1.12.1.
-- unzip data, run:
+- unzip dataset, run:
 
   `unzip data.zip`
 
