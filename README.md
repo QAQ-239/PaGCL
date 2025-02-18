@@ -27,7 +27,7 @@ Train and evaluate the model:
 
 Hyperparameter explanation:
 
-- `--DS` dataset
+- `-- DS` dataset
 - `-- aug` methods for graph data augmentation
 - `-- lr` the learning rate
 - `-- batch_size` batch size in memory during training
