@@ -1,5 +1,7 @@
 # *Code for PaGCL: Privacy-aware Graph Contrastive Learning against Attribute Inference Attacks*
 
+This is the code of our work - PaGCL
+
 ## Setup
 
 - We experiment on CUDA 11.1 and torch 1.12.1.
