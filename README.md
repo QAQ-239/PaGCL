@@ -1,6 +1,6 @@
-# *Code for PaGCL: Privacy-aware Graph Contrastive Learning against Attribute Inference Attacks*
+# *Code for DefGCL: Defence-enhanced Graph Contrastive Learning against Attribute Inference Attacks*
 
-This is the code of our work - PaGCL
+This is the code of our work - DefGCL
 
 ## Setup
 
